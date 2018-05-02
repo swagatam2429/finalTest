@@ -63,6 +63,7 @@ public class TC1
 		
 		driver.quit();
 		System.out.println("Browser Quit . . .");
+		System.out.println("Browser close . . .");
 	    
 	}
 
